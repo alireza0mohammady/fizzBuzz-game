@@ -1,4 +1,3 @@
-// fizz buzz
 function landScapeCheck(){
     let w = window.screen.width;
     let h = window.screen.height;
